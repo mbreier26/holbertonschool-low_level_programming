@@ -3,3 +3,4 @@ added 1-compiler script
 added 2-assembler script
 added 3-name script
 added 4-puts.c program
+added 5-printf.c program
